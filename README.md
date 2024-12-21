@@ -39,7 +39,7 @@ This dbt project integrates data from Square POS and Sevenshifts systems to enab
    Calculates revenue at various granularities, such as orderlevel and itemlevel.
    Supports advanced financial reporting.
 
-
+![fact_cafe_operation_lineage_graph](https://github.com/user-attachments/assets/81c14156-ee80-4260-a1b2-552431882a38)
 
  Technology Stack
  Data Warehouse: Google BigQuery.
@@ -56,4 +56,4 @@ This dbt project integrates data from Square POS and Sevenshifts systems to enab
  Customer Retention: Identify highvalue customers and tailor marketing strategies to their preferences.
 
 This dbt project exemplifies how modern data transformation tools can bridge disparate systems to provide actionable insights for businesses!
-![fact_cafe_operation_lineage_graph](https://github.com/user-attachments/assets/81c14156-ee80-4260-a1b2-552431882a38)
+
